@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+h3 {
+    font-family: Verdana;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 575px;
+    padding: 80px 0;
+    background: #1B244A;
+}
+
+.score {
+    margin: 20px 0;
+    width: 115px;
+    padding: 20px;
+    background: #080001;
+}
+
+.score h4 {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 90px;
+    text-align: right;
+    color: #F94F6D;
+    margin: 0;
+}
+
+.adders {
+    display: flex;
+    justify-content: space-between;
+    width: 155px;
+}
+
+.adder-btn {
+    width: 45px;
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    font-family: Cursed Timer ULiL;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    text-align: center;
+    color: #9AABD8;
+    background: none;
+    padding: 9px;
+
+}
+
